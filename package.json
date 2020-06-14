@@ -1,5 +1,5 @@
 {
-  "name": "cptm-status",
+  "name": "cptm-sp-status",
   "version": "0.0.0",
   "description": "A real-time API for CPTM status",
   "main": "dist/index.js",

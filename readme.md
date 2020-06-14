@@ -1,17 +1,17 @@
-# cptm-status
+# cptm-sp-status
 
 > A real-time API for [CPTM](https://www.cptm.sp.gov.br/) status
 
 ## Install
 
 ```bash
-$ yarn add cptm-status
+$ yarn add cptm-sp-status
 ```
 
 ## Usage
 
 ```js
-const cptmStatus = require('cptm-status')
+import { cptmStatus } from 'cptm-sp-status'
 
 cptmStatus()
 ```
