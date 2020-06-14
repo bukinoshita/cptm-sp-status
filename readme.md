@@ -24,7 +24,7 @@ returns a `promise`
 
 ## Related
 
-- [metro-status](https://github.com/bukinoshita/metro-status) — A real-time API for [MetroSP](http://www.metro.sp.gov.br/) status
+- [metrosp-status](https://github.com/bukinoshita/metrosp-status) — A real-time API for [MetroSP](http://www.metro.sp.gov.br/) status
 
 ## License
 
